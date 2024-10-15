@@ -1,0 +1,33 @@
+{
+	"employees": {
+		"employee": [
+			{
+				"name": "Tugba",
+				"surname": "Yeşil Çimenli",
+				"gender": "Female",
+				"email": "tugbayesilcimenli@gmail.com",
+				"position": "Developer",
+				"department": "Müşteri Ekibi",
+				"_id": "p101"
+			},
+			{
+				"name": "Ayşe",
+				"surname": "Demir",
+				"gender": "Female",
+				"email": "aysedemir@gmail.com",
+				"position": "Analyst",
+				"department": "Müşteri Ekibi",
+				"_id": "p102"
+			},
+			{
+				"name": "Mehmet",
+				"surname": "Aslan",
+				"gender": "Male",
+				"email": "mehmetaslan@gmail.com",
+				"position": "Produvt Owner",
+				"department": "Müşteri Ekibi",
+				"_id": "p103"
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+---
+employees:
+  employee:
+  -
+    "-id": p101
+    name: Tugba
+    surname: Yeşil Çimenli
+    gender: Female
+    email: tugbayesilcimenli@gmail.com
+    position: Developer
+    department: Müşteri Ekibi
+  -
+    "-id": p102
+    name: Ayşe
+    surname: Demir
+    gender: Female
+    email: aysedemir@gmail.com
+    position: Analyst
+    department: Müşteri Ekibi
+  -
+    "-id": p103
+    name: Mehmet
+    surname: Aslan
+    gender: Male
+    email: mehmetaslan@gmail.com
+    position: Produvt Owner
+    department: Müşteri Ekibi
